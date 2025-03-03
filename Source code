@@ -71,7 +71,7 @@
         - 🛠️ Added aimbot prediction, this feature is currently in beta and may not be 100% accurate.<br>
 	- 📈 Increased objects on the map for better visibility.<br>
 	- 🔫 New auto switch feature. If two snipers are held, it will automatically switch to the other sniper after shooting to cancel post shot delay.<br>
-        - 🚀 Added runtime code injection to avoid DMCA bans on platforms like GitHub and GreasyFork.<br><br>
+        - 🚀 NOTE: This is a modified version of Drino995's script, it can be found here https://github.com/Drino955/Survev-Krityhack<br><br>
         📢 v0.5 will be out soon with more features! For private custom scripts, please contact @byxbe on telegram.<br>
     `;
 
